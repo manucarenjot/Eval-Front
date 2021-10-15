@@ -17,7 +17,7 @@ Vous devrez faire preuve d'un peu de créativité et d'une bonne dose de jugemen
   * Le site doit être responsive
   * Créer un repo sur github pour votre travail avec la construction de nommage suivante : [prénom]-evalfront (cf **rdolphe-evalfront-1**)
 Inclure un README avec le repo qui fournit un bref aperçu du projet, ainsi que des images de la version originale et de votre version.
-  * Poussez votre travail final vers un `github pages` et une PR.
+  * Poussez votre travail final vers un `github pages`.
   * ##### (Bonus)
     * les carrés sont cliquable donc accessible.
     * faites-nous rêver  
