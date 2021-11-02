@@ -22,7 +22,7 @@ section {
 .ligne1 {
     width: 100%;
     height: 33.3%;
-    border: solid 1px black;
+
 
 }
 
@@ -268,8 +268,59 @@ h2 {
 aside {
     width: 40%;
     height: 100%;
-    border: solid 1px indianred;
+    border: solid 2px #000000;
     float: right;
     background-image: url(../img/1200px-Jocelyn_Armel_sapeur.jpg);
     background-size: cover;
+}
+
+aside:hover {
+    border: solid 3px white;
+}
+
+.points {
+    margin-top: 10px;
+    width: 20%;
+    height: 30px;
+    float: right;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}
+
+li:hover {
+    cursor: pointer;
+}
+
+.fleche {
+    width: 15%;
+    height: 50px;
+    margin-top: 65%;
+}
+
+.fleche i {
+    font-size: 2.5rem;
+}
+
+.fleche i:hover {
+    cursor: pointer;
+}
+
+.fleche2 {
+    width: 15%;
+    height: 50px;
+    float: right;
+    position: relative;
+    bottom: 6%;
+    left: 30px;
+}
+
+.fleche2 i {
+    font-size: 2.5rem;
+}
+
+.fleche2 i:hover {
+    cursor: pointer;
 }
