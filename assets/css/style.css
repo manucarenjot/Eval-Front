@@ -1,0 +1,122 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 800px;
+    border: solid 10px lightslategrey;
+}
+
+section {
+    width: 60%;
+    height: 100%;
+    border: solid 1px black;
+}
+
+.ligne1 {
+    width: 100%;
+    height: 33.3%;
+    border: solid 1px black;
+
+}
+
+.rectangle {
+    width: 66.66%;
+    height: 100%;
+    border: solid 1px black;
+    background-color: blue;
+}
+.carré {
+    width: 33.33%;
+    height: 100%;
+    border: solid 1px black;
+    background-color: green;
+    margin-left: 66.66%;
+    position: relative;
+    bottom: 100%;
+}
+
+.carré2 {
+    width: 33.33%;
+    height: 100%;
+    border: solid 1px black;
+    background-color: indianred;
+
+}
+
+.carré3 {
+    width: 33.33%;
+    height: 100%;
+    border: solid 1px black;
+    background-color: green;
+    margin-left: 33.33%;
+    position: relative;
+    bottom: 100%;
+}
+.carré4 {
+    width: 33.33%;
+    height: 100%;
+    border: solid 1px black;
+    background-color: rgba(0, 255, 255, 0.7);
+    margin-left: 66.66%;
+    position: relative;
+    bottom: 200%;
+}
+
+
+
+.carré5 {
+    width: 33.33%;
+    height: 100%;
+    border: solid 1px black;
+    background-color: #e601ff;
+
+}
+
+.carré6 {
+    width: 33.33%;
+    height: 100%;
+    border: solid 1px black;
+    background-color: #f60622;
+    margin-left: 33.33%;
+    position: relative;
+    bottom: 100%;
+}
+
+.carré7 {
+    width: 33.33%;
+    height: 100%;
+    border: solid 1px black;
+    background-color: rgba(238, 255, 0, 0.7);
+    margin-left: 66.66%;
+    position: relative;
+    bottom: 200%;
+}
+
+
+.ligne2 {
+    width: 100%;
+    height: 33.33%;
+    border: solid 1px black;
+}
+
+.ligne3 {
+    width: 100%;
+    height: 33.33%;
+    border: solid 1px black;
+}
+
+
+aside {
+    width: 40%;
+    height: 100%;
+    border: solid 1px indianred;
+    float: right;
+    background-image: url(../img/1200px-Jocelyn_Armel_sapeur.jpg);
+    background-size: cover;
+}
