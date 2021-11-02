@@ -100,8 +100,9 @@ h2 {
 .carré:hover {
     background: rgb(241, 100, 2);
     background: radial-gradient(circle,
-    rgb(250, 101, 34) 0%,
-    rgb(255, 148, 89) 100%);
+                rgb(250, 101, 34) 0%,
+                rgb(255, 148, 89) 100%
+    );
     border: solid 3px white;
     cursor: pointer;
 }
@@ -123,8 +124,9 @@ h2 {
 .carré2:hover {
     background: rgb(175, 52, 52);
     background: radial-gradient(circle,
-    rgb(213, 37, 37) 0%,
-    rgb(206, 120, 120) 100%);
+                rgb(213, 37, 37) 0%,
+                rgb(206, 120, 120) 100%
+    );
     border: solid 3px white;
     cursor: pointer;
 }
@@ -148,8 +150,9 @@ h2 {
 .carré3:hover {
     background: rgb(15, 145, 1);
     background: radial-gradient(circle,
-    rgb(55, 159, 5) 0%,
-    rgb(124, 182, 77) 100%);
+                rgb(55, 159, 5) 0%,
+                rgb(124, 182, 77) 100%
+    );
     border: solid 3px white;
     cursor: pointer;
 }
@@ -171,10 +174,10 @@ h2 {
 }
 
 .carré4:hover {
-    background-color: rgba(0, 114, 114, 0.7);
-    background: radial-gradient(circle,
-    rgb(2, 126, 107) 0%,
-    rgb(140, 186, 206) 100%);
+    background: rgba(0, 114, 114, 0.7) radial-gradient(circle,
+                rgb(2, 126, 107) 0%,
+                rgb(140, 186, 206) 100%
+    );
     border: solid 3px white;
     cursor: pointer;
 }
@@ -194,10 +197,10 @@ h2 {
 }
 
 .carré5:hover {
-    background-color: rgb(197, 128, 0);
-    background: radial-gradient(circle,
-    rgb(211, 161, 0) 0%,
-    rgb(255, 242, 148) 100%);
+    background: rgb(197, 128, 0) radial-gradient(circle,
+                rgb(211, 161, 0) 0%,
+                rgb(255, 242, 148) 100%
+    );
     border: solid 3px white;
     cursor: pointer;
 }
@@ -219,10 +222,10 @@ h2 {
 }
 
 .carré6:hover {
-    background-color: #9f03af;
-    background: radial-gradient(circle,
-    rgb(121, 0, 134) 0%,
-    rgb(224, 133, 232) 100%);
+    background: #9f03af radial-gradient(circle,
+        rgb(121, 0, 134) 0%,
+        rgb(224, 133, 232) 100%
+    );
     border: solid 3px white;
     cursor: pointer;
 }
@@ -244,10 +247,10 @@ h2 {
 }
 
 .carré7:hover {
-    background-color: #fc0623;
-    background: radial-gradient(circle,
-    rgb(255, 0, 31) 0%,
-    rgb(133, 54, 65) 100%);
+    background: #fc0623 radial-gradient(circle,
+                rgb(255, 0, 31) 0%,
+                rgb(133, 54, 65) 100%
+    );
     border: solid 3px white;
     cursor: pointer;
 }
