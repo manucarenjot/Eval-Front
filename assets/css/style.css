@@ -237,6 +237,20 @@ h2 {
     bottom: 200%;
 }
 
+.carré7 i {
+    margin-left: 35%;
+    margin-top: 40%;
+    font-size: 4rem;
+}
+
+.carré7:hover {
+    background-color: #fc0623;
+    background: radial-gradient(circle,
+    rgb(255, 0, 31) 0%,
+    rgb(133, 54, 65) 100%);
+    border: solid 3px white;
+    cursor: pointer;
+}
 
 .ligne2 {
     width: 100%;
