@@ -33,6 +33,14 @@ section {
     background-color: rgba(0, 192, 96, 0.7);
 }
 
+.rectangle:hover {
+    background: rgb(34,193,195);
+    background: radial-gradient(circle,
+                rgba(34,193,195,1) 0%,
+                rgb(18, 199, 145) 100%);
+    border: solid 3px white;
+}
+
 h1 {
     margin-left: 50px;
     margin-top: 50px;
@@ -58,16 +66,26 @@ button:hover {
     background-color: rgba(7, 150, 78, 0.7);
 }
 
+i {
+    margin-right: 10px;
+}
+
 a {
     text-decoration-line: none;
     color: white;
+}
+
+.carré i {
+    margin-left: 35%;
+    margin-top: 40%;
+    font-size: 4rem;
 }
 
 .carré {
     width: 33.33%;
     height: 100%;
     border: solid 1px black;
-    background-color: green;
+    background-color: #018001;
     margin-left: 66.66%;
     position: relative;
     bottom: 100%;
