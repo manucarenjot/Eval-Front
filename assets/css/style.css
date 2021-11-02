@@ -39,6 +39,7 @@ section {
                 rgba(34,193,195,1) 0%,
                 rgb(18, 199, 145) 100%);
     border: solid 3px white;
+    cursor: pointer;
 }
 
 h1 {
@@ -75,20 +76,34 @@ a {
     color: white;
 }
 
-.carré i {
-    margin-left: 35%;
-    margin-top: 40%;
-    font-size: 4rem;
+h2 {
+    margin-top: 15px;
+   text-align: center;
 }
 
 .carré {
     width: 33.33%;
     height: 100%;
     border: solid 1px black;
-    background-color: #018001;
+    background-color: #ffa700;
     margin-left: 66.66%;
     position: relative;
     bottom: 100%;
+}
+
+.carré i {
+    margin-left: 35%;
+    margin-top: 40%;
+    font-size: 4rem;
+}
+
+.carré:hover {
+    background: rgb(241, 100, 2);
+    background: radial-gradient(circle,
+    rgb(250, 101, 34) 0%,
+    rgb(255, 148, 89) 100%);
+    border: solid 3px white;
+    cursor: pointer;
 }
 
 .carré2 {
@@ -97,6 +112,21 @@ a {
     border: solid 1px black;
     background-color: indianred;
 
+}
+
+.carré2 i {
+    margin-left: 35%;
+    margin-top: 40%;
+    font-size: 4rem;
+}
+
+.carré2:hover {
+    background: rgb(175, 52, 52);
+    background: radial-gradient(circle,
+    rgb(213, 37, 37) 0%,
+    rgb(206, 120, 120) 100%);
+    border: solid 3px white;
+    cursor: pointer;
 }
 
 .carré3 {
@@ -108,6 +138,22 @@ a {
     position: relative;
     bottom: 100%;
 }
+
+.carré3 i {
+    margin-left: 35%;
+    margin-top: 40%;
+    font-size: 4rem;
+}
+
+.carré3:hover {
+    background: rgb(241, 100, 2);
+    background: radial-gradient(circle,
+    rgb(250, 101, 34) 0%,
+    rgb(255, 148, 89) 100%);
+    border: solid 3px white;
+    cursor: pointer;
+}
+
 .carré4 {
     width: 33.33%;
     height: 100%;
