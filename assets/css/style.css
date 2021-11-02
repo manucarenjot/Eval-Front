@@ -10,6 +10,7 @@ body {
     width: 100%;
     height: 800px;
     border: solid 10px lightslategrey;
+    color: white;
 }
 
 section {
@@ -29,8 +30,39 @@ section {
     width: 66.66%;
     height: 100%;
     border: solid 1px black;
-    background-color: blue;
+    background-color: rgba(0, 192, 96, 0.7);
 }
+
+h1 {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+p {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+button {
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 20%;
+    height: 30px;
+    border: solid 2px white;
+    background-color: transparent;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgba(7, 150, 78, 0.7);
+}
+
+a {
+    text-decoration-line: none;
+    color: white;
+}
+
 .carré {
     width: 33.33%;
     height: 100%;
