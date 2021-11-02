@@ -146,10 +146,10 @@ h2 {
 }
 
 .carré3:hover {
-    background: rgb(241, 100, 2);
+    background: rgb(15, 145, 1);
     background: radial-gradient(circle,
-    rgb(250, 101, 34) 0%,
-    rgb(255, 148, 89) 100%);
+    rgb(55, 159, 5) 0%,
+    rgb(124, 182, 77) 100%);
     border: solid 3px white;
     cursor: pointer;
 }
@@ -158,37 +158,80 @@ h2 {
     width: 33.33%;
     height: 100%;
     border: solid 1px black;
-    background-color: rgba(0, 255, 255, 0.7);
+    background-color: rgba(0, 114, 114, 0.7);
     margin-left: 66.66%;
     position: relative;
     bottom: 200%;
 }
 
+.carré4 i {
+    margin-left: 35%;
+    margin-top: 40%;
+    font-size: 4rem;
+}
 
+.carré4:hover {
+    background-color: rgba(0, 114, 114, 0.7);
+    background: radial-gradient(circle,
+    rgb(2, 126, 107) 0%,
+    rgb(140, 186, 206) 100%);
+    border: solid 3px white;
+    cursor: pointer;
+}
 
 .carré5 {
     width: 33.33%;
     height: 100%;
     border: solid 1px black;
-    background-color: #e601ff;
+    background-color: rgb(193, 210, 0);;
 
+}
+
+.carré5 i {
+    margin-left: 35%;
+    margin-top: 40%;
+    font-size: 4rem;
+}
+
+.carré5:hover {
+    background-color: rgb(197, 128, 0);
+    background: radial-gradient(circle,
+    rgb(211, 161, 0) 0%,
+    rgb(255, 242, 148) 100%);
+    border: solid 3px white;
+    cursor: pointer;
 }
 
 .carré6 {
     width: 33.33%;
     height: 100%;
     border: solid 1px black;
-    background-color: #f60622;
+    background-color: #e601ff;
     margin-left: 33.33%;
     position: relative;
     bottom: 100%;
+}
+
+.carré6 i {
+    margin-left: 35%;
+    margin-top: 40%;
+    font-size: 4rem;
+}
+
+.carré6:hover {
+    background-color: #9f03af;
+    background: radial-gradient(circle,
+    rgb(121, 0, 134) 0%,
+    rgb(224, 133, 232) 100%);
+    border: solid 3px white;
+    cursor: pointer;
 }
 
 .carré7 {
     width: 33.33%;
     height: 100%;
     border: solid 1px black;
-    background-color: rgba(238, 255, 0, 0.7);
+    background-color: #f60622;
     margin-left: 66.66%;
     position: relative;
     bottom: 200%;
