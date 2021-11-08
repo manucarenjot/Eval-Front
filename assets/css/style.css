@@ -329,6 +329,17 @@ li:hover {
     cursor: pointer;
 }
 
+@media screen and (max-width: 900px) {
+
+}
+
+@media screen and (max-width: 800px) {
+
+}
+@media screen and (max-width: 700px) {
+
+}
+
 @media screen and (max-width: 600px) {
     body {
         width: 99%;
