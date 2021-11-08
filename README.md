@@ -24,4 +24,4 @@ Inclure un README avec le repo qui fournit un bref aperçu du projet, ainsi que 
 
 #### Aperçu
 
-![evaluation](evalfront.png)
+![evaluation](assets/img/evalfront.png)
