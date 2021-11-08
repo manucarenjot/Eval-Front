@@ -276,6 +276,7 @@ aside {
     float: right;
     background-image: url(../img/1200px-Jocelyn_Armel_sapeur.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 aside:hover {
