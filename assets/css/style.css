@@ -364,6 +364,7 @@ li:hover {
     }
 
     .rectangle {
+        width: 66.66%;
         height: 100%;
         border: solid 1px black;
         background-color: rgba(0, 192, 96, 0.7);
@@ -482,6 +483,7 @@ li:hover {
     }
 
     .rectangle {
+        width: 66.66%;
         height: 100%;
         border: solid 1px black;
         background-color: rgba(0, 192, 96, 0.7);
